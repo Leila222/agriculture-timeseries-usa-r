@@ -31,7 +31,7 @@ Through data visualization, decomposition, modeling the different components and
 2. Open the notebook:
   ```In RStudio (via IRKernel) or
   In Jupyter Notebook (with R kernel installed)
-
+```
 3. Run the notebook agriculture_production.ipynb.
 
 
