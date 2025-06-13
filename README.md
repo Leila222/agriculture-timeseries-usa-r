@@ -5,7 +5,15 @@ Time Series Data Analysis of Agricultural Production in the USA using R — unco
 This project explores and analyzes agricultural production trends in the United States using time series data and statistical tools in **R**. 
 Through data visualization, decomposition, modeling the different components and forecasting models, the goal is to derive insights into the patterns and behaviors of crop and livestock production over time.
 
-# Project structure
+## Technologies Used
+
+- **R**
+- **ggplot2** – for visualizations  
+- **forecast** – for ARIMA and exponential smoothing  
+- **tseries** – for statistical testing  
+- **dplyr, tidyr** – for data wrangling
+  
+## Project structure
 ```
 agri-timeseries-usa-r/
 │
