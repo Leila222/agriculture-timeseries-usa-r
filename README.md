@@ -11,11 +11,13 @@ Through data visualization, decomposition, modeling the different components and
 - **dplyr, tidyr** – for data wrangling
   
 ## Files Included
-- `agriculture_production.ipynb`  
+```
+- agriculture_production.ipynb 
   The main R notebook containing data loading, preprocessing, visualization, decomposition, and forecasting steps.
   
-- `Agriculture production USA.xlsx`  
+- Agriculture production USA.xlsx
   The dataset containing U.S. agricultural production values over time.
 
-- `README.md`  
+- README.md
   Project overview and usage instructions.
+```
