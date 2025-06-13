@@ -13,13 +13,12 @@ Through data visualization, decomposition, modeling the different components and
 - **tseries** – for statistical testing  
 - **dplyr, tidyr** – for data wrangling
   
-## Project structure
-```
-agri-timeseries-usa-r/
-│
-├── data/ # Raw dataset
-├── scripts/ # R scripts for analysis and modeling
-├── plots/ # Output visualizations
-├── models/ # Forecasting models
-└── README.md # Project documentation
-```
+## Files Included
+- `agriculture_production.ipynb`  
+  The main R notebook containing data loading, preprocessing, visualization, decomposition, and forecasting steps.
+  
+- `Agriculture production USA.xlsx`  
+  The dataset containing U.S. agricultural production values over time.
+
+- `README.md`  
+  Project overview and usage instructions.
