@@ -27,3 +27,11 @@ Through data visualization, decomposition, modeling the different components and
    ```bash
    git clone https://github.com/Leila222/agriculture-timeseries-usa-r.git
    cd agriculture-timeseries-usa-r
+
+2. Open the notebook:
+  ```In RStudio (via IRKernel) or
+  In Jupyter Notebook (with R kernel installed)
+
+3. Run the notebook agriculture_production.ipynb.
+
+
