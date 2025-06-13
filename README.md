@@ -21,3 +21,9 @@ Through data visualization, decomposition, modeling the different components and
 - README.md
   Project overview and usage instructions.
 ```
+## Getting Started
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Leila222/agriculture-timeseries-usa-r.git
+   cd agriculture-timeseries-usa-r
