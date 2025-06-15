@@ -1,6 +1,3 @@
-# agriculture-timeseries-usa-r
-Time Series Data Analysis of Agricultural Production in the USA using R — uncovering trends, seasonality, and forecasting future outputs through statistical and visual methods.
-
 # Time Series Data Analysis on Agriculture Production in the USA
 This project explores and analyzes agricultural production trends in the United States using time series data and statistical tools in **R**. 
 Through data visualization, decomposition, modeling the different components and forecasting models, the goal is to derive insights into the patterns and behaviors of crop and livestock production over time.
@@ -13,13 +10,28 @@ Through data visualization, decomposition, modeling the different components and
 - **tseries** – for statistical testing  
 - **dplyr, tidyr** – for data wrangling
   
-## Project structure
+## Files Included
 ```
-agri-timeseries-usa-r/
-│
-├── data/ # Raw dataset
-├── scripts/ # R scripts for analysis and modeling
-├── plots/ # Output visualizations
-├── models/ # Forecasting models
-└── README.md # Project documentation
+- agriculture_production.ipynb 
+  The main R notebook containing data loading, preprocessing, visualization, decomposition, and forecasting steps.
+  
+- Agriculture production USA.xlsx
+  The dataset containing U.S. agricultural production values over time.
+
+- README.md
+  Project overview and usage instructions.
 ```
+## Getting Started
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Leila222/agriculture-timeseries-usa-r.git
+   cd agriculture-timeseries-usa-r
+
+2. Open the notebook:
+  ```In RStudio (via IRKernel) or
+  In Jupyter Notebook (with R kernel installed)
+```
+3. Run the notebook agriculture_production.ipynb.
+
+
